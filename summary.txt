@@ -1,0 +1,7 @@
+For this assignment, I wanted to refer back to Module 3, Metadata Processing with Loops, Functions, and File Handling. I thought that this assignment was interesting and manageable at the level that I am at. I was interested in finding more ways to organize metadata with the various cateogies involved.
+
+Instead of categorizing the books by year, I decided to organize the books by genre. After organizing the books by genre, I stored all the books into a list catalogue, wrote a function to clean the title, organize the year, and organize the genre. I then wrote a loop that included more details about what category each book belongs to as well as well as the type of book depending on the publication year.
+
+An aspect of coding that I thought was interesting was determining that genre was not an integer. I had an error code when trying to run the code the first time. Originally, I had genre = year_category. It was something that I overlooked and scanned multiple times until I realized what was wrong.
+
+For the future, I would like to do more categorizing depending on multiple factos including format, number of pages, the edition number, etc.
